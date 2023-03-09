@@ -1,0 +1,9 @@
+[submodule "SurvivalShooter"]
+	path = SurvivalShooter
+	url = git@github.com:tudorhodo/SurvivalShooter.git
+[submodule "MazeSurvival"]
+	path = MazeSurvival
+	url = git@github.com:tudorhodo/MazeSurvival.git
+[submodule "DiscoParty"]
+	path = DiscoParty
+	url = git@github.com:tudorhodo/DiscoParty.git
